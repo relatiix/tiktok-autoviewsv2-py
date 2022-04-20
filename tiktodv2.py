@@ -101,8 +101,8 @@ def loop3():
     loop3()
 """
 
-vidUrl = "YOUR_URL" #Change YOUR_URL to your Tik Tok video URL
-username = "YOUR_USERNAME" #Change YOUR_USERNAME to your Tik Tok username
+vidUrl = "https://vm.tiktok.com/ZMLbDy5NV/" #Change YOUR_URL to your Tik Tok video URL
+username = "relatiix" #Change YOUR_USERNAME to your Tik Tok username
 
 system("cls")
 tiktod = pyfiglet.figlet_format("TIKTOD V2", font="slant")
@@ -113,7 +113,7 @@ print("")
 """
 You can change auto value below
 auto = 1 for auto fans (NEW UPDATE: They removed auto fans for now)
-auto = 2 for auto views
+auto = 100000 for auto views
 auto = 3 for auto hearts (NEW UPDATE: They removed auto hearts for now)
 """
 auto = 3
